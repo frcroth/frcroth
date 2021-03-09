@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-![frcroth's GitHub stats](https://github-readme-stats.vercel.app/api?username=frcroth&show_icons=true&theme=tokyonight)
-![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=frcroth&langs_count=5&theme=tokyonight)
+I'm a student at [HPI](https://hpi.de/en/index.html). I'm interested in Software Engineering, Systems programming and Cybersecurity, among other things. Find further information on my [Website](https://frcroth.de).
+
+![frcroth's GitHub stats](https://raw.githubusercontent.com/frcroth/github-stats/master/generated/overview.svg)
+![language stats](https://raw.githubusercontent.com/frcroth/github-stats/master/generated/languages.svg)
 <!--
 **frcroth/frcroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
