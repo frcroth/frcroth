@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I'm a student at [HPI](https://hpi.de/en/index.html). I'm interested in Software Engineering, Systems programming and Cybersecurity, among other things. Find further information on my [Website](https://frcroth.de).
+I'm a student at [HPI](https://hpi.de/en/). I'm interested in Software Engineering, all things Internet, and Cybersecurity, among other things. Find further information on my [Website](https://frcroth.de).
 
-![frcroth's GitHub stats](https://raw.githubusercontent.com/frcroth/github-stats/master/generated/overview.svg)
-![language stats](https://raw.githubusercontent.com/frcroth/github-stats/master/generated/languages.svg)
+![frcroth's GitHub stats](https://raw.githubusercontent.com/frcroth/frcroth/refs/heads/main/github-metrics.svg)
+![Recently used languages](https://raw.githubusercontent.com/frcroth/frcroth/refs/heads/main/metrics.plugin.languages.recent.svg)
+![Mildly interesting facts](https://raw.githubusercontent.com/frcroth/frcroth/refs/heads/main/metrics.plugin.habits.facts.svg)
 <!--
 **frcroth/frcroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
